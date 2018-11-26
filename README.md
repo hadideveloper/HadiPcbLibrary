@@ -1,5 +1,6 @@
 # Altium Pcb Library
 ## Summary:
+* First of all I have to say thank you to [a link](https://github.com/issus) because of his "exceptional, open source database library for Altium" and honestly, this library is based on his project [a link](https://github.com/issus/altium-library), so why I am going to invent the wheel again. Actually, the problem with that project is that, the library not only is too slow ( maybe because of online query from the database), but also, no body can add any new component(s) because it is based on Microsoft Azure Database, besides, the library has not been updated for a long time and all pull requests are waiting for a long time, however, I have to say again, thank you.    
 ## Features:
 * More than 29,000 electronic components
 * More than 600 footprints
