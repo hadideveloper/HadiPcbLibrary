@@ -1,0 +1,4 @@
+
+*.PcbLib.Zip
+*.SchLib.Zip
+**/debug.log
