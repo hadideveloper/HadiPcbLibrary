@@ -2,3 +2,4 @@
 *.PcbLib.Zip
 *.SchLib.Zip
 **/debug.log
+Library/*/History
