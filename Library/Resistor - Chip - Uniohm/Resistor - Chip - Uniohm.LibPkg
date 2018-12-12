@@ -69,7 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EJIVYVDB
+
+[Generic_IntLibOptions]
+OldFormat=False
 
 [OutputGroup1]
 Name=Netlist Outputs
