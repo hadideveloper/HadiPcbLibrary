@@ -11,3 +11,6 @@
 You are welcome to contribute in this project.
 In order to make a reliable PCB library, please make sure that your new components are completely accurate to the manufacturer's specifications when you are going to add new components or edit the exist one.
 * Please do not add any component without 3D model based on part's datasheet.
+* If you add any new component, please make sure that all the neccessary parameters is added and you can, for instance, see other componets and their parameters.
+* Please make sure that your part number is the right one, Digi-key or other website can help you to find.
+* Make sure please, that your new component is added in the right library, if there is no library related to your part, It is okay to add new library just like others, however, It should be integrated library as well.
