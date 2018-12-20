@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=.
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -70,6 +70,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJIVYVDB
+
+[Generic_EDE]
+OutputDir=.
 
 [Generic_IntLibOptions]
 OldFormat=False
